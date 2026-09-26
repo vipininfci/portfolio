@@ -1,1 +1,0 @@
-Keep all files together in one folder. Open index.html. Each navigation item opens a separate page.
